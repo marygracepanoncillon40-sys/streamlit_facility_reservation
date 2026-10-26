@@ -1,0 +1,17 @@
+Reservation_ID,Facility_Type,Lead_Time_Days,Day_Of_Week,User_Category,Participants,Usage_Status,Actual_Attendance
+101,study room,1,Monday,student,4.0,Used,4
+102,Conference Hall,15,Friday,Faculty,25.0,Cancelled,0
+103,Auditorium,5,Wednesday,Student,100.0,Used,95
+104,STUDY ROOM,0,Tuesday,EXTERNAL,2.0,No-Show,0
+105,,12,Thursday,Student,,Used,8
+106,Conference Hall,22,Monday,Faculty,15.0,Cancelled,0
+107,Study Room,2,Saturday,student,6.0,No-Show,0
+108,Auditorium,-1,Sunday,Staff,80.0,Used,75
+109,Conference Hall,4,Wednesday,Student,5.0,Used,5
+110,Study Room,8,Friday,faculty,10.0,Used,10
+110,Study Room,8,Friday,faculty,10.0,Used,10
+111,Conference Hall,1,Monday,student,8.0,No-Show,0
+112,Study Room,18,Wednesday,Student,4.0,Cancelled,0
+113,Auditorium,3,Thursday,Faculty,50.0,Used,48
+114,Study Room,0,Tuesday,student,2.0,No-Show,0
+115,Conference Hall,10,Friday,Staff,20.0,Used,18
